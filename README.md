@@ -17,5 +17,5 @@ No building required, the provided launching scripts call the "python3" command 
 
 ### Known limitations
 
- 1. he leader election is not implemented: if the current leader fails another proposer won't be elected.
+ 1. The leader election is not implemented: if the current leader fails another proposer won't be elected.
  2. total order may be violated
